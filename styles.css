@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+main {
+    color: white;
+    background-color:purple;
+    text-align: center;
+}
+
+image {
+    text-align: left;
+}
+
+footer {
+    background-color: black
+}
